@@ -7,7 +7,7 @@ vertice y cada vuelo es una arista cuyo peso es el precio del boleto. Los datos 
 `datos/vuelos.txt`.
 
 ## Requisitos
-.NET SDK 8.0 o superior. No usa paquetes externos.
+.NET SDK 10.0 o superior. No usa paquetes externos.
 
 ## Ejecucion
 ```
